@@ -35,7 +35,7 @@ const getNumberOfLines=()=>{
 };
 
 }
-
+//
 
 const depositAmount = deposit();
 console.log(depositAmount);
